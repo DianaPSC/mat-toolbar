@@ -1,6 +1,6 @@
-##CUANDO CORRO LA APLICACIÓN ME APARECE ESTE ERROR:
-##1. If 'mat-toolbar' is an Angular component, then verify that it is part of this module. 
-##2. If 'mat-toolbar' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.
+# CUANDO CORRO LA APLICACIÓN ME APARECE ESTE ERROR:
+## 1. If 'mat-toolbar' is an Angular component, then verify that it is part of this module. 
+## 2. If 'mat-toolbar' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.
 
 
 
